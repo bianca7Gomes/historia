@@ -23,3 +23,10 @@ button {
 .passo.ativo {
     display:block;
 }
+
+img {
+    margin-left: 170px;
+    margin-right: 170px;
+    max-width: 50%;
+    height: 500px;
+}
